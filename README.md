@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! I'm Ali 👋
 
-<!--
-**alibahrami1376/alibahrami1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Focus Areas:** Python programming, Web development, and Software Engineering  
+💻 **Skills:** Python | Django | FastAPI | JavaScript | React | Git | SQL  
+📊 **Interests:** Open-source projects, Data Analysis, APIs, and Distributed Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect & Projects
+- 🌐 Personal Website: [your-website.com](https://your-website.com)  
+- 💼 LinkedIn: [linkedin.com/in/ali](https://linkedin.com/in/ali)  
+- 📂 GitHub Projects: [github.com/ali](https://github.com/ali)  
+
+---
+
+## 🚀 Recent Activities
+- Built APIs with FastAPI for multi-service management  
+- Data analysis projects using Python and SQL databases  
+- Contributed to open-source project X  
+
+---
+
+## 📫 Contact
+- Email: ali@example.com  
+
+---
+
+*Let's connect and build something amazing!*

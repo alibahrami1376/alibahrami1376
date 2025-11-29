@@ -1,15 +1,14 @@
-# Hi there! I'm Ali 👋
+# Hi there! I'm Ali Bahrami 👋
 
-🎯 **Focus Areas:** Python programming, Web development, and Software Engineering  
-💻 **Skills:** Python | Django | FastAPI | JavaScript | React | Git | SQL  
-📊 **Interests:** Open-source projects, Data Analysis, APIs, and Distributed Systems  
+🎯 **Focus Areas:** Python programming, Web development  
+💻 **Skills:** Python | Django | FastAPI | Git | SQL  
+📊 **Interests:** Open-source projects
 
 ---
 
 ## 🔗 Connect & Projects
-- 🌐 Personal Website: [your-website.com](https://your-website.com)  
-- 💼 LinkedIn: [linkedin.com/in/ali](https://linkedin.com/in/ali)  
-- 📂 GitHub Projects: [github.com/ali](https://github.com/ali)  
+- 🌐 Personal Website: [your-website.com](https://thealibahrami)  
+- 💼 LinkedIn: [linkedin.com/in/ali](https://linkedin.com/in/alibahrami)  
 
 ---
 
@@ -21,8 +20,6 @@
 ---
 
 ## 📫 Contact
-- Email: ali@example.com  
-
----
+- Email: alifbahrami13766@gmail.com ---
 
 *Let's connect and build something amazing!*

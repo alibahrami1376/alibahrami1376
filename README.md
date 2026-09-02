@@ -63,7 +63,7 @@ A personal website built with **Django**, featuring a blog, portfolio and dashbo
 
 ## 🔗 Connect
 
-* 💼 [LinkedIn](https://linkedin.com/in/alibahrami)
+* 💼 [LinkedIn]([https://linkedin.com/in/alibahrami](https://www.linkedin.com/in/ali-bahrami-90a296168/))
 * 🌐 [Personal Website](https://thealibahrami.ir/)
 * 📧 [alifbahrami13766@gmail.com](mailto:alifbahrami13766@gmail.com)
 

@@ -60,14 +60,12 @@ A personal website built with **Django**, featuring a blog, portfolio and dashbo
 🔗 [GitHub](https://github.com/alibahrami1376/personal-website-django)
 
 ---
-
 ## 🔗 Connect
 
-* 💼 [LinkedIn]([https://linkedin.com/in/alibahrami](https://www.linkedin.com/in/ali-bahrami-90a296168/))
+* 💼 [LinkedIn](https://www.linkedin.com/in/ali-bahrami-90a296168/)
 * 🌐 [Personal Website](https://thealibahrami.ir/)
 * 📧 [alifbahrami13766@gmail.com](mailto:alifbahrami13766@gmail.com)
 
----
 
 ## 📫 Contact
 

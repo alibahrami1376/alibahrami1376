@@ -8,14 +8,17 @@ My background started in Embedded Systems and Electronics, and I later transitio
 
 ### 🛠️ Tech Stack
 
-**Backend:** Python, Django, FastAPI, REST API
-**Database:** PostgreSQL, SQL
-**Caching & Background Tasks:** Redis, Celery
-**DevOps & Tools:** Docker, Linux, Git, GitHub Actions
-**Testing & Code Quality:** Pytest, Ruff, Pre-commit
-**ORM / Database Tools:** SQLAlchemy, Alembic
+**Backend:** Python · Django · FastAPI · REST API
 
----
+**Database:** PostgreSQL · SQL
+
+**Caching & Background Tasks:** Redis · Celery
+
+**DevOps & Tools:** Docker · Linux · Git · GitHub Actions
+
+**Testing & Code Quality:** Pytest · Ruff · Pre-commit
+
+**ORM & Database Tools:** SQLAlchemy · Alembic
 
 ## 🚀 Featured Projects
 
